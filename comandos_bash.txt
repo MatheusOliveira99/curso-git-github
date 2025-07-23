@@ -1,3 +1,5 @@
 ls -> Lista arquivos
 cd -> Move entre diretórios
 pwd -> Mostra caminho do diretório atual
+cat >  Exibe conteúdo do arquivo
+rm -> Remove o arquivo ou diretório
