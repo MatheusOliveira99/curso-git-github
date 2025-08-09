@@ -5,3 +5,6 @@ Este arquivo contém informações adicionais para git
 
 # Comando mais genéricos
 - comandos estranhos
+
+# More commands
+- test in branch
