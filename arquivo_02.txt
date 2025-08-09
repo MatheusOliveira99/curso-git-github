@@ -1,1 +1,3 @@
 Esse arquivo é referente a branch secundaria02
+
+simulando mais uma linha no arquivo 02
